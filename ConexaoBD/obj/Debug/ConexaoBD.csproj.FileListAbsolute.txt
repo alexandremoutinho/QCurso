@@ -1,0 +1,7 @@
+C:\dev\aspnet\QCurso\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\dev\aspnet\QCurso\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\dev\aspnet\QCurso\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\dev\aspnet\QCurso\ConexaoBD\obj\Debug\ConexaoBD.csprojAssemblyReference.cache
+C:\dev\aspnet\QCurso\ConexaoBD\obj\Debug\ConexaoBD.csproj.CoreCompileInputs.cache
+C:\dev\aspnet\QCurso\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\dev\aspnet\QCurso\ConexaoBD\obj\Debug\ConexaoBD.pdb
